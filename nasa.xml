@@ -1,14 +1,16 @@
-<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
-<link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ"/>
-<id>yt:channel:LA_DiR1FfKNvjuUpBHmylQ</id>
-<yt:channelId>LA_DiR1FfKNvjuUpBHmylQ</yt:channelId>
-<title>NASA</title>
-<link rel="alternate" href="https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ"/>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
 
+<item>
+<title>
+<![CDATA[ Medical Park Saglik Rehberi ]]>
+</title>
+<link>https://www.medicalpark.com.tr/saglik-rehberi</link>
+<guid isPermaLink="false">266631c03b2f16738b8171191759af7f</guid>
+<dc:creator>
+<![CDATA[ medicalpark.com.tr ]]>
+</dc:creator>
+</item>
 
-
-
-
-
-
-</feed>
+</channel>
+</rss>
